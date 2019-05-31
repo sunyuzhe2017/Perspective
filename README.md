@@ -2,9 +2,8 @@
 
 [博客链接](https://blog.csdn.net/qq_30460905/article/details/88383410).
 
-![使用示例图片](https://github.com/sunyuzhe2017/Perspective/blob/master/2019-03-10%2020-43-09%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png)
 
-##使用说明
+**使用说明**
 
 （1）首先打开一张图片，调整需要透视变换物体在左边图形框中完全显示。
 
