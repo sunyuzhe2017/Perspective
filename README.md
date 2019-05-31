@@ -1,10 +1,11 @@
 **Perspective Instruction**
 
-[博客链接](https://blog.csdn.net/qq_30460905/article/details/88383410).
+[博客链接](https://blog.csdn.net/qq_30460905/article/details/88383410)
 
-![应用界面]（https://github.com/sunyuzhe2017/Perspective/blob/master/pic1.png）
+![变换效果图](https://github.com/sunyuzhe2017/Perspective/blob/master/pic1.png)
 
 **使用说明**
+![使用说明图](https://github.com/sunyuzhe2017/Perspective/blob/master/pic3.png)
 
 （1）首先打开一张图片，调整需要透视变换物体在左边图形框中完全显示。
 
@@ -14,7 +15,7 @@
 
 （4）点击”保存图片“ 按钮，选择保存位置，输入文件名，不要忘了加后缀 ”.jpg“ 。
 
-！[变换效果图](https://github.com/sunyuzhe2017/Perspective/blob/master/pic2.png)
+![效果图](https://github.com/sunyuzhe2017/Perspective/blob/master/pic2.png)
 
 --------------------- 
 作者：龙性的腾飞 
